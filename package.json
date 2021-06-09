@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-tsgen-issues",
+  "version": "1.0.0",
+  "description": "Test cases for mongoose-tsgen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "mtgen --debug src/models"
+  },
+  "author": "Martin Staffa",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.9",
+    "mongoose-tsgen": "^8.3.4"
+  }
+}
