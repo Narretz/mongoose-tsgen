@@ -10,7 +10,7 @@
   "author": "Martin Staffa",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.12.9",
+    "mongoose": "^5.12.13",
     "mongoose-tsgen": "^8.3.4"
   }
 }
