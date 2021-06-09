@@ -1,6 +1,10 @@
 {
   "compilerOptions": {
     "esModuleInterop": true,
-    "moduleResolution": "Node"
-  }
+    "moduleResolution": "Node",
+    "skipLibCheck": true
+  },
+  "files": [
+    "src/interfaces/mongoose.gen.ts"
+  ]
 }
